@@ -1,0 +1,1 @@
+import{a3 as t}from"./index.1d03c2ce.js";const o=t("store",{state:()=>({counter:0,storeValue:"store value string",dataLoading:!1,mapLoadStartTime:null,mapLoadFinishTime:null,mapLoadTime:0}),getters:{doubleCount:e=>e.counter*2},actions:{increment(){this.counter++}}});export{o as m};
